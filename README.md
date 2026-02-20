@@ -7,3 +7,17 @@ SSFP is a story-driven AI software factory template that helps teams define work
 - `AGENTS.md`: operating policy with explicit contracts, gates, and status transitions.
 - `schemas/work.schema.json`: JSON Schema for `work.json`.
 - `schemas/results.schema.json`: JSON Schema for `results.json`.
+
+## Usage
+
+### Example Prompt: Generate Work
+
+```text
+Create a new story in work.json for password reset by email.
+```
+
+### Example Prompt: Execute Work
+
+```text
+Execute all pending stories in work.json.
+```
