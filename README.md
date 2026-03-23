@@ -4,7 +4,7 @@ SSFP is a story-driven AI software factory template that helps teams define work
 
 ## Adoption
 
-Point your local AGENTS.md to this repo url and tell your agent to adopt this pattern.
+Point your local AGENTS.md to this repo url and tell your agent to adopt this pattern but do not bootstrap any application code.
 
 *NOTE* Please validate the contents of the repo and agents file before you run this prompt
 
